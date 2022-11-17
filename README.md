@@ -69,7 +69,8 @@
 <li>Joy of WP</li>
 <li>A Byte of Python</li>
 <li>LearnPython.org</li>
-<li>Learn Python The Hard Way (Website)</li>
+<li>Learn Python </li>
+<li>The Hard Way (Website)</li>
 <li>Learn Ruby the Hard Way</li>
 <li>Rails For Zombies</li>
 <li>Ruby on Rails Tutorial</li>
