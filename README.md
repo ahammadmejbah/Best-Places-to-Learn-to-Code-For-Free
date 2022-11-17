@@ -97,16 +97,3 @@
 98. Unity Learn
 99. GameDev.net
 100. Learn-php.org
-101. PHP Pandas
-102. PHP: The Right Way
-103. Learncs.org
-104. Codeasy
-105. Learn C#
-106. LearnCpp.com
-107. learn-cpp.org
-108. go.dev/learn
-109. Go by Example
-110. Gophercises
-111. Harvard University Online
-112. Teach Yourself Computer Science
-113. Learn Computer Science
