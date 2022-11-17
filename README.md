@@ -49,13 +49,13 @@
 <li>Ada Developers Academy</li>
 <li>Founders and Coders</li>
 <li>Learn Enough Command Line to Be Dangerous</li>
-<li><li>Command Line Power User</li>
-<li><li>Conquering the Command Line</li>
-<li><li>Git Immersion</li>
-<li><li>Github Docs</li>
-<li><li>HTML5 Dog</li>
-<li><li>Marksheet</li>
-<li><li>MDN Web Docs</li>
+<li>Command Line Power User</li>
+<li>Conquering the Command Line</li>
+<li>Git Immersion</li>
+<li>Github Docs</li>
+<li>HTML5 Dog</li>
+<li>Marksheet</li>
+<li>MDN Web Docs</li>
 <li>Learn to Code HTML & CSS (via Shay Howe)</li>
 <li>Code College – CSS3 in 30 Days</li>
 <li>JavaScript for Cats</li>
