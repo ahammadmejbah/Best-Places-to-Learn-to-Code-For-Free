@@ -1,99 +1,102 @@
-1. Codecademy
-2. freeCodeCamp
-3. Coursera
-4. edX
-5. Codewars
-6. Code Conquest
-7. GA Dash
-8. Khan Academy
-9. MIT OpenCourseware
-10. The Odin Project
-11. Udacity
-12. SoloLearn
-13. The Code Player
-14. Bento.io
-15. Udemy
-16. Upskill
-17. Code.org
-18. DigitalOcean
-19. Hackr.io
-20. W3Schools
-21. Coderbyte
-22. Microsoft Learn
-23. Edabit
-24. Launch School Open Book Shelf
-25. Classpert
-26. CodeGym
-27. Mammoth Interactive – Learn to code in 30 minutes!
-28. Alison
-29. LearnCode.academy
-30. thenewboston
-31. Derek Banas
-32. ProgrammingKnowledge
-33. Programming with Mosh
-34. CS Dojo
-35. Blondiebytes
-36. David Walsh
-37. Softwarehow
-38. SitePoint
-39. Envato Tuts+
-40. A List Apart
-41. CSS-Tricks
-42. Hacker Noon
-43. Live Code Stream
-44. SheCanCode
-45. School of Code
-46. Resilient Coders
-47. Ada Developers Academy
-48. Founders and Coders
-49. Learn Enough Command Line to Be Dangerous
-50. Command Line Power User
-51. Conquering the Command Line
-52. Git Immersion
-53. Github Docs
-54. HTML5 Dog
-55. Marksheet
-56. MDN Web Docs
-57. Learn to Code HTML & CSS (via Shay Howe)
-58. Code College – CSS3 in 30 Days
-59. JavaScript for Cats
-60. NodeSchool
-61. Learn JS
-62. Eloquent JavaScript
-63. JavaScript.com
-64. Watch & Code
-65. WordPress.tv
-66. WPBeginner
-67. Joy of WP
-68. A Byte of Python
-69. LearnPython.org
-70. Learn Python The Hard Way (Website)
-71. Learn Ruby the Hard Way
-72. Rails For Zombies
-73. Ruby on Rails Tutorial
-74. Ruby Koans
-76. Ruby In 20 Minutes
-77. Dataquest
-78. Springboard
-79. EliteDataScience
-80. Ben Collins’ Advanced Formulas 30 Day Challenge
-81. Machine Learning Mastery
-82. Google AI
-83. Cybrary
-84. Cyber Aces
-85. Android Developers
-86. Google Developers Training
-87. Start Developing iOS Apps (Swift)
-88. Swift Playgrounds
-89. The Encyclopedia of Human-Computer Interaction
-90. UXPin
-91. UX Beginner
-92. DevOps.com
-93. DevOps School
-94. Effective DevOps
-95. ToolsQA
-96. Software Testing Material
-97. GameDev Academy
-98. Unity Learn
-99. GameDev.net
-100. Learn-php.org
+<ol>
+
+<li>Codecademy</li>
+<li>freeCodeCamp</li>
+<li>Coursera</li>
+<li>edX</li>
+<li>Codewars</li>
+<li>Code Conquest</li>
+<li>GA Dash</li>
+<li>Khan Academy</li>
+<li>MIT OpenCourseware</li>
+<li>The Odin Project</li>
+<li>Udacity</li>
+<li>SoloLearn</li>
+<li>The Code Player</li>
+<li>Bento.io</li>
+<li>Udemy</li>
+<li>Upskill</li>
+<li>Code.org</li>
+<li>DigitalOcean</li>
+<li>Hackr.io</li>
+<li>W3Schools</li>
+<li>Coderbyte</li>
+<li>Microsoft Learn</li>
+<li>Edabit</li>
+<li>Launch School Open Book Shelf</li>
+<li>Classpert</li>
+<li>CodeGym</li>
+<li>Mammoth Interactive – Learn to code in 30 minutes!</li>
+<li>Alison</li>
+<li>LearnCode.academy</li>
+<li>thenewboston</li>
+<li>Derek Banas</li>
+<li>ProgrammingKnowledge</li>
+<li>Programming with Mosh</li>
+<li>CS Dojo</li>
+<li>Blondiebytes</li>
+<li>David Walsh</li>
+<li>Softwarehow</li>
+<li>SitePoint</li>
+<li>Envato Tuts+</li>
+<li>A List Apart</li>
+<li>CSS-Tricks</li>
+<li>Hacker Noon</li>
+<li>Live Code Stream</li>
+<li>SheCanCode</li>
+<li>School of Code</li>
+<li>Resilient Coders</li>
+<li>Ada Developers Academy</li>
+<li>Founders and Coders</li>
+<li>Learn Enough Command Line to Be Dangerous</li>
+<li><li>Command Line Power User</li>
+<li><li>Conquering the Command Line</li>
+<li><li>Git Immersion</li>
+<li><li>Github Docs</li>
+<li><li>HTML5 Dog</li>
+<li><li>Marksheet</li>
+<li><li>MDN Web Docs</li>
+<li>Learn to Code HTML & CSS (via Shay Howe)</li>
+<li>Code College – CSS3 in 30 Days</li>
+<li>JavaScript for Cats</li>
+<li>NodeSchool</li>
+<li>Learn JS</li>
+<li>Eloquent JavaScript</li>
+<li>JavaScript.com</li>
+<li>Watch & Code</li>
+<li>WordPress.tv</li>
+<li>WPBeginner</li>
+<li>Joy of WP</li>
+<li>A Byte of Python</li>
+<li>LearnPython.org</li>
+<li>Learn Python The Hard Way (Website)</li>
+<li>Learn Ruby the Hard Way</li>
+<li>Rails For Zombies</li>
+<li>Ruby on Rails Tutorial</li>
+<li>Ruby Koans</li>
+<li>Ruby In 20 Minutes</li>
+<li>Dataquest</li>
+<li>Springboard</li>
+<li>EliteDataScience</li>
+<li>Ben Collins’ Advanced Formulas 30 Day Challenge</li>
+<li>Machine Learning Mastery</li>
+<li>Google AI</li>
+<li>Cybrary</li>
+<li>Cyber Aces</li>
+<li>Android Developers</li>
+<li>Google Developers Training</li>
+<li>Start Developing iOS Apps (Swift)</li>
+<li>Swift Playgrounds</li>
+<li>The Encyclopedia of Human-Computer Interaction</li>
+<li>UXPin</li>
+<li>UX Beginner</li>
+<li>DevOps.com</li>
+<li>DevOps School</li>
+<li>Effective DevOps</li>
+<li>ToolsQA</li>
+<li>Software Testing Material</li>
+<li>GameDev Academy</li>
+<li>Unity Learn</li>
+<li>GameDev.net</li>
+<li>Learn-php.org</li>
+</ol>
